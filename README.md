@@ -1,4 +1,4 @@
-# Scripts of Ortúzar et al., From wild microbiomes to synthetic microbial communities in Lupinus angustifolius
+# Scripts of Ortúzar et al., From wild microbiomes to synthetic microbial communities in *Lupinus angustifolius*
 
 Correspondende to Martha E. Trujillo (mett@usal.es) and Maite Ortúzar (maiteortuzar@usal.es).
 

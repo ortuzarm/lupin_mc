@@ -1,6 +1,6 @@
 # Scripts of Ortúzar et al., From natural assemblages to synthetic communities in the *Lupinus* microbiome
 
-Correspondende to Martha E. Trujillo (mett@usal.es) and Maite Ortúzar (maiteortuzar@usal.es).
+Correspondence to Martha E. Trujillo (mett@usal.es) and Maite Ortúzar (maiteortuzar@usal.es).
 
 Accession numbers: All raw data material of this work can be consulted in NCBI under projects: PRJNA1178901 (SynCom strain genome assemblies), and PRJNA1335402 (16S rRNA gene amplicon reads from natural soil and axenic condition experiments, and host RNA-seq reads). Lupin culture collection strain 16S rRNA gene sequences are available under accession numbers PX430780 – PX431494.
 

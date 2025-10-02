@@ -1,4 +1,6 @@
 #PLaBAse SynCom strain genome annotations (heatmap)
+#maiteortuzar@usal.es
+
 #Directory containing the TSV files
 directory <- "C:/Users/maiteortuzar/Desktop/"
 

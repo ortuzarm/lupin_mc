@@ -1,5 +1,5 @@
 #Isolates recovery ratio
-#originally by Maite Ortúzar (maiteortuzar@usal.es)
+#maiteortuzar@usal.es
 
 #Libraries
 library(tidyverse)
